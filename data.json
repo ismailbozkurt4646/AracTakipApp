@@ -1,0 +1,25 @@
+{
+  "vehicles": {
+    "arac_01": {
+      "name": "Lojistik Kamyonu 1",
+      "lat": 41.0082,
+      "lon": 28.9784,
+      "status": "Hareket Halinde",
+      "last_updated": "2024-01-20T10:00:00"
+    },
+    "arac_02": {
+      "name": "Servis Minibüsü",
+      "lat": 41.0150,
+      "lon": 29.0100,
+      "status": "Durakladı",
+      "last_updated": "2024-01-20T10:05:00"
+    },
+    "arac_03": {
+      "name": "Acil Müdahale Aracı",
+      "lat": 40.9900,
+      "lon": 29.0250,
+      "status": "Aktif",
+      "last_updated": "2024-01-20T10:02:00"
+    }
+  }
+}
